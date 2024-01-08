@@ -1,5 +1,10 @@
 {
     "@@locale": "en",
     "login":"login",
-    "register":"register"
+    "register":"register",
+    "email": "email",
+    "userName": "username",
+    "password": "password"
+
+    
 }

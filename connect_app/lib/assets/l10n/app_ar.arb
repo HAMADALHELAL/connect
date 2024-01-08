@@ -1,5 +1,9 @@
 {
     "@@locale": "ar",
     "login":"تسجيل الدخول",
-    "register":"التسجيل"
+    "register":"التسجيل",
+    "email":"",
+    "userName": "",
+    "password": ""
+
 }
