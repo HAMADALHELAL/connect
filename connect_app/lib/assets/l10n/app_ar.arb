@@ -4,6 +4,7 @@
     "register":"التسجيل",
     "email":"",
     "userName": "",
-    "password": ""
+    "password": "",
+    "googlesignin": ""
 
 }
